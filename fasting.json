@@ -1,0 +1,84 @@
+[
+  {
+    "id": "ramadan",
+    "name": "Ramadan",
+    "type": "obligatory",
+    "description": "Fasting in the month of Ramadan is one of the five pillars of Islam for those who are able.",
+    "pattern": {
+      "hijriMonth": 9,
+      "days": "full-month"
+    },
+    "notes": [
+      "Use this app to see approximate Ramadan days.",
+      "Always confirm start and end with your local scholars and moon-sighting."
+    ]
+  },
+  {
+    "id": "monday-thursday",
+    "name": "Mondays and Thursdays",
+    "type": "sunnah",
+    "description": "The Prophet ﷺ used to fast on Mondays and Thursdays.",
+    "pattern": {
+      "weekdayIndices": [1, 4]
+    },
+    "notes": [
+      "Use the calendar to find Mondays and Thursdays in each week.",
+      "Plan voluntary fasts around your schedule when possible."
+    ]
+  },
+  {
+    "id": "ayyam-al-beed",
+    "name": "Ayyam al-Beed (White Days)",
+    "type": "recommended",
+    "description": "13th, 14th and 15th of each Hijri month are known as the white days.",
+    "pattern": {
+      "hijriDays": [13, 14, 15]
+    },
+    "notes": [
+      "Check the Hijri date in the Day View to identify these days.",
+      "Many Muslims fast these days regularly every month."
+    ]
+  },
+  {
+    "id": "arafah-fast",
+    "name": "Day of Arafah (for non–Hajj pilgrims)",
+    "type": "highly-recommended",
+    "description": "Fasting on the 9th of Dhul-Hijjah is strongly recommended for those not performing Hajj.",
+    "pattern": {
+      "hijriMonth": 12,
+      "hijriDay": 9
+    },
+    "notes": [
+      "Use this app to see when Dhul-Hijjah is approaching.",
+      "Many people increase dua, dhikr and charity on this day."
+    ]
+  },
+  {
+    "id": "ashura-fast",
+    "name": "Ashura (10 Muharram)",
+    "type": "highly-recommended",
+    "description": "Fasting the 10th of Muharram (Ashura) is highly recommended. Many scholars encourage fasting a day before or after.",
+    "pattern": {
+      "hijriMonth": 1,
+      "hijriDay": 10
+    },
+    "notes": [
+      "Consider fasting 9th and 10th or 10th and 11th, based on scholarly advice.",
+      "Use the Hijri date in the app to identify Muharram days."
+    ]
+  },
+  {
+    "id": "shawwal-six",
+    "name": "Six days of Shawwal",
+    "type": "recommended",
+    "description": "After completing Ramadan, fasting six days in Shawwal brings great reward.",
+    "pattern": {
+      "hijriMonth": 10,
+      "days": "any-6-days"
+    },
+    "notes": [
+      "You can spread the six days across the month of Shawwal.",
+      "Use the calendar to plan around work and family commitments."
+    ]
+  }
+]
