@@ -1,0 +1,60 @@
+[
+  {
+    "id": "ramadan-start",
+    "name": "Start of Ramadan (approx.)",
+    "description": "First day of fasting in Ramadan. Exact date depends on local moon-sighting.",
+    "hijriMonth": 9,
+    "hijriDay": 1,
+    "hijriYearApprox": 1447,
+    "gregorianApprox": "March/April 2026",
+    "importance": "Fard fasting for those who are able. Month of Quran, dua and charity."
+  },
+  {
+    "id": "eid-al-fitr",
+    "name": "Eid al-Fitr (approx.)",
+    "description": "Festival at the end of Ramadan after completing the fast.",
+    "hijriMonth": 10,
+    "hijriDay": 1,
+    "hijriYearApprox": 1447,
+    "gregorianApprox": "April/May 2026",
+    "importance": "Day of joy, prayer, charity and family gathering after Ramadan."
+  },
+  {
+    "id": "arafah",
+    "name": "Day of Arafah (approx.)",
+    "description": "9th of Dhul-Hijjah. Greatest day of Hajj. Recommended fast for those not performing Hajj.",
+    "hijriMonth": 12,
+    "hijriDay": 9,
+    "hijriYearApprox": 1447,
+    "gregorianApprox": "June/July 2026",
+    "importance": "Reported to expiate sins of the previous and coming year by Allah’s mercy."
+  },
+  {
+    "id": "eid-al-adha",
+    "name": "Eid al-Adha (approx.)",
+    "description": "Festival of sacrifice, following the Day of Arafah.",
+    "hijriMonth": 12,
+    "hijriDay": 10,
+    "hijriYearApprox": 1447,
+    "gregorianApprox": "June/July 2026",
+    "importance": "Day of prayer, sacrifice (Udhiyah/Qurbani), charity and remembrance of Prophet Ibrahim (peace be upon him)."
+  },
+  {
+    "id": "ashura",
+    "name": "Ashura (approx.)",
+    "description": "10th of Muharram. Highly recommended fast.",
+    "hijriMonth": 1,
+    "hijriDay": 10,
+    "hijriYearApprox": 1448,
+    "gregorianApprox": "July/August 2026",
+    "importance": "Many scholars recommend fasting a day before or after along with it."
+  },
+  {
+    "id": "white-days-generic",
+    "name": "Ayyam al-Beed (White Days)",
+    "description": "13th, 14th and 15th of each Hijri month.",
+    "hijriPattern": [13, 14, 15],
+    "importance": "Recommended to fast these days every month for consistent spiritual benefit.",
+    "note": "Use Hijri date in the app to identify these days monthly."
+  }
+]
