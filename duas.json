@@ -1,0 +1,154 @@
+[
+  {
+    "id": "morning-1",
+    "title": "Morning dhikr",
+    "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+    "translit": "Subhānallāhi wa biḥamdih",
+    "meaning": "Glory is to Allah and praise is to Him.",
+    "category": "Morning"
+  },
+  {
+    "id": "morning-2",
+    "title": "Starting the day",
+    "arabic": "اللَّهُمَّ مَا أَصْبَحَ بِي مِنْ نِعْمَةٍ فَمِنْكَ وَحْدَكَ لَا شَرِيكَ لَكَ",
+    "translit": "Allāhumma mā aṣbaḥa bī min ni‘mah fa-minka waḥdaka lā sharīka lak",
+    "meaning": "O Allah, whatever blessing I or anyone from Your creation has woken up upon is from You alone, without partner.",
+    "category": "Morning"
+  },
+  {
+    "id": "evening-1",
+    "title": "Evening dhikr",
+    "arabic": "اللَّهُمَّ إِنِّي أَمْسَيْتُ أُشْهِدُكَ وَأُشْهِدُ حَمَلَةَ عَرْشِكَ...",
+    "translit": "Allāhumma innī amsaytu ush'hiduka wa ush'hidu ḥamalata ‘arshik...",
+    "meaning": "O Allah, in the evening I call You and the bearers of Your throne to witness that You are Allah, there is no deity except You...",
+    "category": "Evening"
+  },
+  {
+    "id": "istighfar-1",
+    "title": "Simple istighfar",
+    "arabic": "أَسْتَغْفِرُ اللَّهَ",
+    "translit": "Astaghfirullāh",
+    "meaning": "I seek forgiveness from Allah.",
+    "category": "Forgiveness"
+  },
+  {
+    "id": "istighfar-2",
+    "title": "Master supplication for forgiveness (short version)",
+    "arabic": "اللَّهُمَّ اغْفِرْ لِي وَتُبْ عَلَيَّ إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ",
+    "translit": "Allāhumma-ghfir lī wa tub ‘alayya innaka anta at-Tawwābu r-Raḥīm",
+    "meaning": "O Allah, forgive me and accept my repentance. Indeed, You are the Acceptor of repentance, the Most Merciful.",
+    "category": "Forgiveness"
+  },
+  {
+    "id": "reliance-1",
+    "title": "Relying on Allah",
+    "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+    "translit": "Ḥasbunallāhu wa ni‘mal wakīl",
+    "meaning": "Sufficient for us is Allah, and He is the best disposer of affairs.",
+    "category": "Reliance"
+  },
+  {
+    "id": "reliance-2",
+    "title": "Delegating affairs",
+    "arabic": "وَأُفَوِّضُ أَمْرِي إِلَى اللَّهِ",
+    "translit": "Wa ufawwiḍu amrī ilā Allāh",
+    "meaning": "And I entrust my affair to Allah.",
+    "category": "Reliance"
+  },
+  {
+    "id": "ease-1",
+    "title": "Asking for ease",
+    "arabic": "رَبِّ يَسِّرْ وَلَا تُعَسِّرْ",
+    "translit": "Rabbi yassir wa lā tu‘assir",
+    "meaning": "My Lord, make it easy and do not make it difficult.",
+    "category": "Ease"
+  },
+  {
+    "id": "guidance-1",
+    "title": "Seeking guidance",
+    "arabic": "اللَّهُمَّ اهْدِنِي وَسَدِّدْنِي",
+    "translit": "Allāhumma ihdinī wa saddidnī",
+    "meaning": "O Allah, guide me and keep me firm on the straight path.",
+    "category": "Guidance"
+  },
+  {
+    "id": "knowledge-1",
+    "title": "Increase in knowledge",
+    "arabic": "رَبِّ زِدْنِي عِلْمًا",
+    "translit": "Rabbi zidnī ‘ilmā",
+    "meaning": "My Lord, increase me in knowledge.",
+    "category": "Knowledge"
+  },
+  {
+    "id": "parents-1",
+    "title": "For parents",
+    "arabic": "رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+    "translit": "Rabbi irḥamhumā kamā rabbayānī ṣaghīrā",
+    "meaning": "My Lord, have mercy upon them as they raised me when I was small.",
+    "category": "Family"
+  },
+  {
+    "id": "family-1",
+    "title": "For family and offspring",
+    "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+    "translit": "Rabbanā hab lanā min azwājinā wa dhurriyyātinā qurrata a‘yunin waj‘alnā lil-muttaqīna imāmā",
+    "meaning": "Our Lord, grant us from among our spouses and offspring comfort to our eyes and make us an example for the righteous.",
+    "category": "Family"
+  },
+  {
+    "id": "protection-1",
+    "title": "Protection from harm",
+    "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+    "translit": "Bismillāhil-ladhī lā yaḍurru ma‘a ismihī shay’un fī l-arḍi wa lā fī s-samā’i wa huwa s-Samī‘u l-‘Alīm",
+    "meaning": "In the Name of Allah, with whose Name nothing on earth or in the heaven can cause harm, and He is the All-Hearing, All-Knowing.",
+    "category": "Protection"
+  },
+  {
+    "id": "protection-2",
+    "title": "Seeking refuge from evil",
+    "arabic": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+    "translit": "A‘ūdhu bikalimātillāhi t-tāmmāti min sharri mā khalaq",
+    "meaning": "I seek refuge in the perfect words of Allah from the evil of what He has created.",
+    "category": "Protection"
+  },
+  {
+    "id": "anxiety-1",
+    "title": "Against anxiety and grief",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ",
+    "translit": "Allāhumma innī a‘ūdhu bika minal-hammi wal-ḥazan",
+    "meaning": "O Allah, I seek refuge in You from anxiety and grief.",
+    "category": "Relief"
+  },
+  {
+    "id": "heart-1",
+    "title": "Firmness of the heart",
+    "arabic": "يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَى دِينِكَ",
+    "translit": "Yā Muqallibal-qulūb, thabbit qalbī ‘alā dīnik",
+    "meaning": "O Turner of the hearts, keep my heart firm upon Your religion.",
+    "category": "Heart"
+  },
+  {
+    "id": "decision-1",
+    "title": "When facing decisions",
+    "arabic": "اِسْتَخِرِ اللَّهَ فِي كُلِّ أَمْرٍ",
+    "translit": "Istakhirillāha fī kulli amr",
+    "meaning": "Seek Allah's guidance (Istikhārah) in every matter.",
+    "category": "Guidance"
+  },
+  {
+    "id": "rizq-1",
+    "title": "For provision",
+    "arabic": "اللَّهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+    "translit": "Allāhumma-kfinī biḥalālika ‘an ḥarāmik, wa aghninī bi-faḍlika ‘amman siwāk",
+    "meaning": "O Allah, suffice me with what You have allowed instead of what You have forbidden, and make me independent by Your grace from all others besides You.",
+    "category": "Provision"
+  },
+  {
+    "id": "gratitude-1",
+    "title": "Gratitude",
+    "arabic": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+    "translit": "Allāhumma a‘innī ‘alā dhikrika wa shukrika wa ḥusni ‘ibādatik",
+    "meaning": "O Allah, help me remember You, thank You and worship You in the best way.",
+    "category": "Gratitude"
+  }
+]
